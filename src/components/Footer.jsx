@@ -7,10 +7,10 @@ const Footer = () => {
     <footer className="footer-section">
       <div className="container">
         <div className="footer-grid">
-          {/* Column 1: DRS INFRA MART PRIVATE LIMITED */}
+          {/* Column 1: DSR INFRA MART PRIVATE LIMITED */}
           <div className="footer-brand">
             <div className="brand-name">
-              <span>DRS </span>
+              <span>DSR </span>
               <span className="orange">INFRA MART </span>
               <span className="brand-private-limited" style={{ color: '#D1D5DB' }}>PRIVATE LIMITED</span>
             </div>
@@ -103,11 +103,11 @@ const Footer = () => {
               </div>
               <div className="footer-contact-item">
                 <Mail size={16} />
-                <span>info@drsinframart.com</span>
+                <span>info@dsrinframart.com</span>
               </div>
               <div className="footer-contact-item">
                 <MapPin size={16} />
-                <span>DRS Corporate Park, Sector 44, Gurugram, Haryana 122003</span>
+                <span>DSR Corporate Park, Sector 44, Gurugram, Haryana 122003</span>
               </div>
             </div>
           </div>
@@ -115,7 +115,7 @@ const Footer = () => {
 
         {/* Footer Bottom */}
         <div className="footer-bottom">
-          <p>© 2026 DRS Infra Mart Private Limited. All Rights Reserved.</p>
+          <p>© 2026 DSR Infra Mart Private Limited. All Rights Reserved.</p>
           <div className="footer-bottom-links">
             <Link to="/contact">Privacy Policy</Link>
             <Link to="/contact">Terms of Supply</Link>

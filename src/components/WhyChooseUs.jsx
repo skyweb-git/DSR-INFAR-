@@ -52,8 +52,8 @@ const WhyChooseUs = () => {
     <section className="why-us-section section-padding">
       <div className="container">
         <div className="section-header text-center">
-          <div className="section-eyebrow">THE DRS ADVANTAGE</div>
-          <h2 className="section-title light">Why Choose DRS Infra Mart Private Limited?</h2>
+          <div className="section-eyebrow">THE DSR ADVANTAGE</div>
+          <h2 className="section-title light">Why Choose DSR Infra Mart Private Limited?</h2>
           <p className="section-subtitle light">
             We streamline the construction supply chain with uncompromising reliability, technical excellence, and transparent execution.
           </p>

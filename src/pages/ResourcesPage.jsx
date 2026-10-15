@@ -75,8 +75,8 @@ const ResourcesPage = () => {
     const cleanId = String(targetId).replace('#', '').toLowerCase();
 
     let resolvedId = cleanId;
-    if (cleanId === 'life-at-inframarket' || cleanId === 'life-at-drsinframart') {
-      resolvedId = 'life-at-drsinframart';
+    if (cleanId === 'life-at-inframarket' || cleanId === 'life-at-drsinframart' || cleanId === 'life-at-dsrinframart') {
+      resolvedId = 'life-at-dsrinframart';
     }
 
     const el = document.getElementById(resolvedId) || document.getElementById(cleanId);
@@ -248,13 +248,14 @@ const ResourcesPage = () => {
         </div>
       </section>
 
-      {/* 3. Life @ DRS Infra Mart */}
-      <section id="life-at-drsinframart" className="section-padding">
+      {/* 3. Life @ DSR Infra Mart */}
+      <section id="life-at-dsrinframart" className="section-padding">
+        <span id="life-at-drsinframart" style={{ display: 'none' }} />
         <span id="life-at-inframarket" style={{ display: 'none' }} />
         <div className="container">
           <div className="section-header text-center">
             <div className="section-eyebrow">CULTURE & PEOPLE</div>
-            <h2 className="section-title">Life @ DRS Infra Mart</h2>
+            <h2 className="section-title">Life @ DSR Infra Mart</h2>
             <p className="section-subtitle">
               A high-ownership culture rooted in innovation, field empathy, and continuous engineering excellence.
             </p>

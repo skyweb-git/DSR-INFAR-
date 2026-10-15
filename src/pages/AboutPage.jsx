@@ -90,7 +90,7 @@ const AboutPage = () => {
       <section className="page-hero">
         <img
           src="/images/about-hero.jpg"
-          alt="About DRS Infra Mart"
+          alt="About DSR Infra Mart"
           className="page-hero-bg"
           onError={(e) => {
             e.target.onerror = null;
@@ -104,7 +104,7 @@ const AboutPage = () => {
             <span>/</span>
             <span className="current">About Us</span>
           </nav>
-          <h1 className="page-hero-title">About DRS Infra Mart Private Limited</h1>
+          <h1 className="page-hero-title">About DSR Infra Mart Private Limited</h1>
           <p className="page-hero-subtitle">
             Pioneering a modern, transparent, and high-efficiency building materials supply network across India.
           </p>
@@ -118,7 +118,7 @@ const AboutPage = () => {
             <div className="about-image-wrapper">
               <img
                 src="/images/about-construction.jpg"
-                alt="DRS Infra Mart Construction Facility"
+                alt="DSR Infra Mart Construction Facility"
                 className="about-image-main"
                 onError={(e) => {
                   e.target.onerror = null;
@@ -127,7 +127,7 @@ const AboutPage = () => {
               />
               <div className="about-badge-card">
                 <div className="num">500+</div>
-                <div className="desc">Major Landmarks Built With DRS Materials</div>
+                <div className="desc">Major Landmarks Built With DSR Materials</div>
               </div>
             </div>
 
@@ -135,10 +135,10 @@ const AboutPage = () => {
               <div className="section-eyebrow">WHO WE ARE</div>
               <h2 className="section-title">Redefining Construction Material Procurement</h2>
               <p className="about-text" style={{ marginBottom: '1.25rem' }}>
-                DRS Infra Mart Private Limited is a modern building materials platform providing a wide range of quality products for contractors, builders, developers, architects, retailers and homeowners.
+                DSR Infra Mart Private Limited is a modern building materials platform providing a wide range of quality products for contractors, builders, developers, architects, retailers and homeowners.
               </p>
               <p style={{ color: 'var(--color-text-gray)', lineHeight: '1.75', marginBottom: '1.75rem' }}>
-                Founded with a mission to eliminate fragmented middlemen markups and inconsistent site deliveries, DRS Infra Mart aggregates certified structural, architectural, plumbing, and electrical materials directly from primary mills and quarries under one unified logistics roof.
+                Founded with a mission to eliminate fragmented middlemen markups and inconsistent site deliveries, DSR Infra Mart aggregates certified structural, architectural, plumbing, and electrical materials directly from primary mills and quarries under one unified logistics roof.
               </p>
 
               <div className="about-highlights">
@@ -180,7 +180,7 @@ const AboutPage = () => {
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#F4512A', fontWeight: 800, marginBottom: '0.5rem' }}>
                 <Calendar size={18} /> <span>2016 - Genesis</span>
               </div>
-              <h3 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '0.5rem' }}>Founding of DRS Infra Mart</h3>
+              <h3 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '0.5rem' }}>Founding of DSR Infra Mart</h3>
               <p style={{ color: 'var(--color-text-gray)', lineHeight: '1.65' }}>
                 Initiated operations with direct primary TMT steel and RMC concrete supplies in NCR, solving acute supply delay challenges for regional developers.
               </p>
@@ -202,7 +202,7 @@ const AboutPage = () => {
               </div>
               <h3 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '0.5rem' }}>Digital Transformation</h3>
               <p style={{ color: 'var(--color-text-gray)', lineHeight: '1.65' }}>
-                Rolled out DRS Rise, Phoenix Customer Central, and GPS logistics automation, bringing real-time material traceability to institutional job sites.
+                Rolled out DSR Rise, Phoenix Customer Central, and GPS logistics automation, bringing real-time material traceability to institutional job sites.
               </p>
             </div>
 

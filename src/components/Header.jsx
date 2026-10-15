@@ -32,7 +32,7 @@ const brandsSubmenuColumns = {
 const resourcesSubmenuItems = [
   { name: 'Catalogues', path: '/resources#catalogues' },
   { name: 'Careers', path: '/resources#careers' },
-  { name: 'Life @ DRS Infra Mart', path: '/resources#life-at-drsinframart' },
+  { name: 'Life @ DSR Infra Mart', path: '/resources#life-at-dsrinframart' },
   { name: 'CSR Policy', path: '/resources#csr-policy' },
 ];
 
@@ -139,7 +139,7 @@ const Header = () => {
         <div className="container top-bar-content">
           <div className="top-bar-left">
             <span className="corp-dot"></span>
-            <span>DRS INFRA MART PRIVATE LIMITED</span>
+            <span>DSR INFRA MART PRIVATE LIMITED</span>
           </div>
 
           <div className="top-bar-right">
@@ -147,9 +147,9 @@ const Header = () => {
               <Phone size={14} />
               <span>+91-9606350000</span>
             </a>
-            <a href="mailto:info@drsinframart.com" className="top-bar-item">
+            <a href="mailto:info@dsrinframart.com" className="top-bar-item">
               <Mail size={14} />
-              <span>info@drsinframart.com</span>
+              <span>info@dsrinframart.com</span>
             </a>
           </div>
         </div>
@@ -161,7 +161,7 @@ const Header = () => {
           {/* Brand Identity */}
           <Link to="/" className="brand-identity">
             <div className="brand-name">
-              <span>DRS </span>
+              <span>DSR </span>
               <span className="orange">INFRA MART </span>
               <span className="brand-private-limited">PRIVATE LIMITED</span>
             </div>
@@ -387,7 +387,7 @@ const Header = () => {
           <div className="mobile-menu-header">
             <div className="brand-identity">
               <div className="brand-name" style={{ color: '#fff' }}>
-                <span>DRS </span>
+                <span>DSR </span>
                 <span className="orange">INFRA MART </span>
                 <span className="brand-private-limited" style={{ color: '#D1D5DB' }}>PRIVATE LIMITED</span>
               </div>
@@ -570,8 +570,8 @@ const Header = () => {
             <a href="tel:+919606350000" style={{ color: '#bbb', display: 'flex', alignItems: 'center', gap: '8px' }}>
               <Phone size={14} style={{ color: '#F4512A' }} /> +91-9606350000
             </a>
-            <a href="mailto:info@drsinframart.com" style={{ color: '#bbb', display: 'flex', alignItems: 'center', gap: '8px' }}>
-              <Mail size={14} style={{ color: '#F4512A' }} /> info@drsinframart.com
+            <a href="mailto:info@dsrinframart.com" style={{ color: '#bbb', display: 'flex', alignItems: 'center', gap: '8px' }}>
+              <Mail size={14} style={{ color: '#F4512A' }} /> info@dsrinframart.com
             </a>
           </div>
           <Link

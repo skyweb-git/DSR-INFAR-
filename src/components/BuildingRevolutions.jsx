@@ -5,8 +5,8 @@ const stories = [
   {
     id: 1,
     tagline: 'OPPORTUNITY',
-    title: 'DRS Nirmaan - Empowering India\'s Builders',
-    description: 'Witness how DRS Infra Mart is revolutionizing on-site construction efficiency with end-to-end procurement and timely material dispatch.',
+    title: 'DSR Nirmaan - Empowering India\'s Builders',
+    description: 'Witness how DSR Infra Mart is revolutionizing on-site construction efficiency with end-to-end procurement and timely material dispatch.',
     image: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80',
     videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1'
   },
@@ -67,7 +67,7 @@ const BuildingRevolutions = () => {
                 maxWidth: '480px',
               }}
             >
-              Welcome to DRS Infra Mart Private Limited, where we believe disruption is the key to Building Revolutions. We are transforming India's construction ecosystem by blending advanced logistics, trusted manufacturing partnerships, and unified procurement.
+              Welcome to DSR Infra Mart Private Limited, where we believe disruption is the key to Building Revolutions. We are transforming India's construction ecosystem by blending advanced logistics, trusted manufacturing partnerships, and unified procurement.
             </p>
           </div>
 
@@ -279,7 +279,7 @@ const BuildingRevolutions = () => {
             </button>
             <iframe
               src={activeStory.videoUrl}
-              title="DRS Infra Mart Story"
+              title="DSR Infra Mart Story"
               width="100%"
               height="100%"
               style={{ border: 'none' }}

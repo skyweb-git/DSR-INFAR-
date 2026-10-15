@@ -4,7 +4,7 @@ export const productsData = [
     name: 'Marble & Granite',
     category: 'Stones & Surfaces',
     shortDescription: 'Exquisite natural Italian and Indian marble slabs alongside durable granite for premium flooring and countertops.',
-    description: 'DRS Infra Mart supplies a distinguished portfolio of natural marble and granite sourced directly from premium quarries across Rajasthan, Italy, and South America. Treated with precision cutting and edge polishing technology, our collection brings enduring prestige and natural elegance to luxury residences, commercial foyers, and hospitality suites.',
+    description: 'DSR Infra Mart supplies a distinguished portfolio of natural marble and granite sourced directly from premium quarries across Rajasthan, Italy, and South America. Treated with precision cutting and edge polishing technology, our collection brings enduring prestige and natural elegance to luxury residences, commercial foyers, and hospitality suites.',
     image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80',
@@ -106,7 +106,7 @@ export const productsData = [
     name: 'Cement',
     category: 'Structural Materials',
     shortDescription: 'High-grade OPC 53, OPC 43, PPC, and specialized slag cement from India\'s top certified manufacturers.',
-    description: 'DRS Infra Mart supplies premium hydraulic cements engineered for rapid curing, exceptional compressive durability, and long-term crack resistance. Ideal for ready-mix concrete operations, precast yards, and massive residential structural pours.',
+    description: 'DSR Infra Mart supplies premium hydraulic cements engineered for rapid curing, exceptional compressive durability, and long-term crack resistance. Ideal for ready-mix concrete operations, precast yards, and massive residential structural pours.',
     image: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80',
@@ -139,7 +139,7 @@ export const productsData = [
     name: 'Plywood',
     category: 'Wood & Boards',
     shortDescription: 'Calibrated BWP (Boiling Water Proof), BWR marine-grade plywood, blockboards, and flush doors.',
-    description: 'Constructed using 100% hardwood timber veneers bonded under high hydraulic pressure with unextended phenol-formaldehyde resin. DRS Infra Mart plywood ensures uniform thickness with 4-side calibration, anti-termite treatment, and zero core gaps.',
+    description: 'Constructed using 100% hardwood timber veneers bonded under high hydraulic pressure with unextended phenol-formaldehyde resin. DSR Infra Mart plywood ensures uniform thickness with 4-side calibration, anti-termite treatment, and zero core gaps.',
     image: 'https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?auto=format&fit=crop&w=1200&q=80',
@@ -204,7 +204,7 @@ export const productsData = [
     name: 'Sanitaryware',
     category: 'Plumbing & Bath',
     shortDescription: 'Designer rimless wall-hung closets, smart electronic toilets, tabletop basins, and vanity ensembles.',
-    description: 'Transform bathrooms into serene sanctuaries with DRS Infra Mart\'s sanitaryware collection. Featuring vitreous ceramic glaze fired at 1280°C, tornado silent flushes, concealed cisterns, and water-efficient dual flush systems.',
+    description: 'Transform bathrooms into serene sanctuaries with DSR Infra Mart\'s sanitaryware collection. Featuring vitreous ceramic glaze fired at 1280°C, tornado silent flushes, concealed cisterns, and water-efficient dual flush systems.',
     image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80',
@@ -268,7 +268,7 @@ export const productsData = [
     name: 'Pipes & Fittings',
     category: 'Plumbing & Bath',
     shortDescription: 'CPVC hot & cold water pipes, UPVC pressure pipes, SWR drainage systems, and underground sewerage lines.',
-    description: 'DRS Infra Mart supplies certified piping systems engineered from virgin polymer compounds. Designed to resist scale build-up, chlorine degradation, chemical corrosion, and intense hydraulic surges for residential and municipal applications.',
+    description: 'DSR Infra Mart supplies certified piping systems engineered from virgin polymer compounds. Designed to resist scale build-up, chlorine degradation, chemical corrosion, and intense hydraulic surges for residential and municipal applications.',
     image: 'https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=1200&q=80',
@@ -364,7 +364,7 @@ export const productsData = [
     name: 'Hardware',
     category: 'Fixtures & Hardware',
     shortDescription: 'Architectural mortise handles, digital door locks, soft-close hydraulic hinges, telescopic channels, and patch fittings.',
-    description: 'Engineered for smooth kinematic motion and unassailable physical security. DRS Infra Mart provides stainless steel 304/316 grade architectural hardware, European concealed drawer runners, sliding door systems, and smart biometric access hardware.',
+    description: 'Engineered for smooth kinematic motion and unassailable physical security. DSR Infra Mart provides stainless steel 304/316 grade architectural hardware, European concealed drawer runners, sliding door systems, and smart biometric access hardware.',
     image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80',
@@ -396,7 +396,7 @@ export const productsData = [
     name: 'Construction Chemicals',
     category: 'Construction Chemicals',
     shortDescription: 'High-performance concrete admixtures, non-shrink precision grouts, epoxy bonding chemicals, and structural sealants.',
-    description: 'DRS Infra Mart offers an exhaustive portfolio of advanced construction chemicals formulated to enhance concrete durability, accelerate or retard set times, and restore structural integrity. Engineered in compliance with ASTM C494 and IS 9103 standards for infrastructure projects, bridges, industrial floors, and residential developments.',
+    description: 'DSR Infra Mart offers an exhaustive portfolio of advanced construction chemicals formulated to enhance concrete durability, accelerate or retard set times, and restore structural integrity. Engineered in compliance with ASTM C494 and IS 9103 standards for infrastructure projects, bridges, industrial floors, and residential developments.',
     image: '/images/construction-chemicals.jpg',
     gallery: [
       '/images/construction-chemicals.jpg',
@@ -429,7 +429,7 @@ export const productsData = [
     name: 'Waterproofing & Sealants',
     category: 'Construction Chemicals',
     shortDescription: 'Polymer-modified cementitious waterproofing coatings, polyurethane elastomeric membranes, crystalline chemicals, and hybrid sealants.',
-    description: 'Eliminate moisture ingress, basement dampness, efflorescence, and terrace leakage with DRS Infra Mart\'s specialized waterproofing chemicals. Designed for positive and negative side hydrostatic pressure resistance, elastomeric crack-bridging, and severe weathering protection.',
+    description: 'Eliminate moisture ingress, basement dampness, efflorescence, and terrace leakage with DSR Infra Mart\'s specialized waterproofing chemicals. Designed for positive and negative side hydrostatic pressure resistance, elastomeric crack-bridging, and severe weathering protection.',
     image: '/images/waterproofing.jpg',
     gallery: [
       '/images/waterproofing.jpg',
@@ -556,7 +556,7 @@ export const productsData = [
     name: 'AAC Blocks & Walling',
     category: 'Structural Materials',
     shortDescription: 'Autoclaved Aerated Concrete (AAC) lightweight blocks, jointing mortar, and acoustic thermal walling systems.',
-    description: 'Certified green building material reducing structural dead loads by up to 50%. DRS Infra Mart AAC blocks deliver exceptional thermal insulation, 4-hour fire resistance, and precision dimensions that save up to 75% on plaster and mortar consumption.',
+    description: 'Certified green building material reducing structural dead loads by up to 50%. DSR Infra Mart AAC blocks deliver exceptional thermal insulation, 4-hour fire resistance, and precision dimensions that save up to 75% on plaster and mortar consumption.',
     image: 'https://images.unsplash.com/photo-1590069261209-f8e9b8642343?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1590069261209-f8e9b8642343?auto=format&fit=crop&w=1200&q=80',
@@ -618,7 +618,7 @@ export const productsData = [
     name: 'Construction Equipment & Plant',
     category: 'Fixtures & Hardware',
     shortDescription: 'Transit mixers, tower cranes, boom placers, concrete batching equipment, and certified plant machinery on lease and sale.',
-    description: 'DRS Infra Mart offers turnkey construction equipment solutions backed by preventive maintenance and skilled operators. Maximize on-site turnaround speed and structural safety with leading-brand fleet availability.',
+    description: 'DSR Infra Mart offers turnkey construction equipment solutions backed by preventive maintenance and skilled operators. Maximize on-site turnaround speed and structural safety with leading-brand fleet availability.',
     image: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80',
@@ -649,7 +649,7 @@ export const productsData = [
     name: 'Kitchen & Home Appliances',
     category: 'Fixtures & Hardware',
     shortDescription: 'Built-in induction hobs, chimney hoods, microwave ovens, stainless steel kitchen sinks, and luxury home appliances.',
-    description: 'Sophisticated culinary hardware engineered with German precision and modern Indian cooking requirements in mind. DRS Infra Mart supplies silent filterless chimneys, tempered glass induction hobs, and composite quartz sinks.',
+    description: 'Sophisticated culinary hardware engineered with German precision and modern Indian cooking requirements in mind. DSR Infra Mart supplies silent filterless chimneys, tempered glass induction hobs, and composite quartz sinks.',
     image: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80',
@@ -736,7 +736,7 @@ export const productsData = [
     name: 'Large-Format Porcelain Slabs',
     category: 'Ceramics & Surfaces',
     shortDescription: 'Ultra-thin continuous 9mm and 12mm porcelain slabs (up to 1200x2800mm) for seamless floor and wall facades.',
-    description: 'Sintered under 15,000 tons of compaction pressure and fired at 1250°C. DRS Infra Mart porcelain slabs deliver monumental monolithic expanses with near-zero joint lines, ideal for contemporary minimalist architecture.',
+    description: 'Sintered under 15,000 tons of compaction pressure and fired at 1250°C. DSR Infra Mart porcelain slabs deliver monumental monolithic expanses with near-zero joint lines, ideal for contemporary minimalist architecture.',
     image: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80',
@@ -764,7 +764,7 @@ export const productsData = [
     name: 'Exterior Pavers & Step Tiles',
     category: 'Ceramics & Surfaces',
     shortDescription: 'Heavy-duty 16mm-20mm full-body vitrified outdoor pavers with R11 anti-skid surfaces for driveways and landscapes.',
-    description: 'Specially engineered for vehicular traffic, landscaped gardens, and exposed rooftop terraces. DRS Infra Mart 20mm vitrified outdoor pavers combine natural stone textures with 1,000kg+ point-load breaking strength.',
+    description: 'Specially engineered for vehicular traffic, landscaped gardens, and exposed rooftop terraces. DSR Infra Mart 20mm vitrified outdoor pavers combine natural stone textures with 1,000kg+ point-load breaking strength.',
     image: 'https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1200&q=80'
@@ -875,7 +875,7 @@ export const productsData = [
     name: 'Wires, Cables & Conduits',
     category: 'Electrical & Lighting',
     shortDescription: 'Single core industrial copper wires, shielded instrumentation cables, armored HT/LT cables, and PVC conduits.',
-    description: '100% pure electrolytic copper cables insulated with flame-retardant low-smoke (FRLS) virgin PVC. DRS Infra Mart cables withstand heavy overload surges, high ambient temperatures, and chemical degradation.',
+    description: '100% pure electrolytic copper cables insulated with flame-retardant low-smoke (FRLS) virgin PVC. DSR Infra Mart cables withstand heavy overload surges, high ambient temperatures, and chemical degradation.',
     image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80'

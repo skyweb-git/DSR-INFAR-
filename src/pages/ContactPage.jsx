@@ -6,7 +6,7 @@ import { HelpCircle, ChevronDown } from 'lucide-react';
 const ContactPage = () => {
   const faqs = [
     {
-      q: 'How does DRS Infra Mart handle site delivery and unloading?',
+      q: 'How does DSR Infra Mart handle site delivery and unloading?',
       a: 'We operate our own dedicated transport fleet equipped with GPS tracking. For bulk structural loads like TMT steel and cement, we coordinate scheduled mechanical trailer deliveries directly to your site unloading bay.'
     },
     {
@@ -29,7 +29,7 @@ const ContactPage = () => {
       <section className="page-hero">
         <img
           src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1920&q=80"
-          alt="Contact DRS Infra Mart"
+          alt="Contact DSR Infra Mart"
           className="page-hero-bg"
         />
         <div className="page-hero-overlay"></div>
@@ -39,7 +39,7 @@ const ContactPage = () => {
             <span>/</span>
             <span className="current">Contact Us</span>
           </nav>
-          <h1 className="page-hero-title">Contact DRS Infra Mart Private Limited</h1>
+          <h1 className="page-hero-title">Contact DSR Infra Mart Private Limited</h1>
           <p className="page-hero-subtitle">
             Get in touch with our central materials desk for quotes, tenders, project specifications, and site dispatches.
           </p>

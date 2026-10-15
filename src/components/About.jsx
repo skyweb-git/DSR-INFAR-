@@ -11,7 +11,7 @@ const About = () => {
           <div className="about-image-wrapper">
             <img
               src="/images/about-construction.jpg"
-              alt="DRS Infra Mart Construction Materials"
+              alt="DSR Infra Mart Construction Materials"
               className="about-image-main"
               onError={(e) => {
                 e.target.onerror = null;
@@ -30,7 +30,7 @@ const About = () => {
             <h2 className="section-title">Who Are We?</h2>
 
             <p className="about-text">
-              DRS Infra Mart Private Limited is a modern building materials platform providing a wide range of quality products for contractors, builders, developers, architects, retailers and homeowners.
+              DSR Infra Mart Private Limited is a modern building materials platform providing a wide range of quality products for contractors, builders, developers, architects, retailers and homeowners.
             </p>
 
             <div className="about-highlights">

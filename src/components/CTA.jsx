@@ -7,14 +7,14 @@ const CTA = () => {
     <section className="cta-section">
       <img
         src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1800&q=80"
-        alt="DRS Infra Mart Construction Excellence"
+        alt="DSR Infra Mart Construction Excellence"
         className="cta-bg-image"
       />
       <div className="cta-overlay"></div>
 
       <div className="container cta-content">
         <div className="section-eyebrow" style={{ color: '#F4512A' }}>
-          PARTNER WITH DRS INFRA MART PRIVATE LIMITED
+          PARTNER WITH DSR INFRA MART PRIVATE LIMITED
         </div>
         <h2 className="cta-title">
           LET'S BUILD SOMETHING GREAT TOGETHER.

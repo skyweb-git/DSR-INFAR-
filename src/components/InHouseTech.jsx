@@ -5,7 +5,7 @@ const techApps = [
   {
     id: 1,
     category: 'Dealer Application',
-    title: 'DRS RISE',
+    title: 'DSR RISE',
     desc: 'Empowering channel partners with live pricing, dispatch visibility, and credit limit tracking.',
     iconType: 'rise'
   },

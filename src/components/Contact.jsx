@@ -83,7 +83,7 @@ const Contact = () => {
           {/* Left Column: Company Information */}
           <div className="contact-info-panel">
             <div className="contact-info-header">
-              <h3>DRS Infra Mart Private Limited</h3>
+              <h3>DSR Infra Mart Private Limited</h3>
               <p>Corporate Headquarters & Central Materials Distribution</p>
             </div>
 
@@ -94,7 +94,7 @@ const Contact = () => {
                 </div>
                 <div className="contact-detail-meta">
                   <h4>Head Office Address</h4>
-                  <p>DRS Corporate Park, Sector 44, Golf Course Extension Road, Gurugram, Haryana 122003, India</p>
+                  <p>DSR Corporate Park, Sector 44, Golf Course Extension Road, Gurugram, Haryana 122003, India</p>
                 </div>
               </div>
 
@@ -117,7 +117,7 @@ const Contact = () => {
                 <div className="contact-detail-meta">
                   <h4>Email Enquiry</h4>
                   <p>
-                    <a href="mailto:info@drsinframart.com">info@drsinframart.com</a>
+                    <a href="mailto:info@dsrinframart.com">info@dsrinframart.com</a>
                   </p>
                 </div>
               </div>

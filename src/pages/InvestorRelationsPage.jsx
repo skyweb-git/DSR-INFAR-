@@ -135,8 +135,8 @@ const InvestorRelationsPage = () => {
                 <p style={{ fontSize: '0.875rem', color: 'var(--color-text-gray)' }}>
                   For institutional investor queries, analyst calls, and statutory filings:
                 </p>
-                <a href="mailto:investors@drsinframart.com" style={{ color: '#F4512A', fontWeight: 700, fontSize: '0.9375rem' }}>
-                  investors@drsinframart.com
+                <a href="mailto:investors@dsrinframart.com" style={{ color: '#F4512A', fontWeight: 700, fontSize: '0.9375rem' }}>
+                  investors@dsrinframart.com
                 </a>
               </div>
 

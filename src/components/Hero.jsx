@@ -8,7 +8,7 @@ const Hero = () => {
       {/* Background Architectural Image */}
       <img
         src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=85"
-        alt="DRS Infra Mart Architecture and Materials"
+        alt="DSR Infra Mart Architecture and Materials"
         className="hero-bg-media"
       />
       
@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="container hero-content">
         <div className="hero-eyebrow">
           <span className="badge-line"></span>
-          <span>DRS INFRA MART PRIVATE LIMITED</span>
+          <span>DSR INFRA MART PRIVATE LIMITED</span>
         </div>
 
         <h1 className="hero-title">
